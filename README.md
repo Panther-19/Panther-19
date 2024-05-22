@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Panther-19
-- 👀 I’m upcooming software developer
+- 👀 I’m upcoming software developer
 - 🌱 I’m currently learning Web development in which very soon will be done with it
 - 💞️ I’m looking forward to collaborate with people who interested to code with me and doing
 - business with them
