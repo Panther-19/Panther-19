@@ -14,3 +14,5 @@ Here is an example of using the `lang` attribute in HTML:
 	<p lang="fr">Ce texte est en français.</p>
 </body>
 </html>
+
+
