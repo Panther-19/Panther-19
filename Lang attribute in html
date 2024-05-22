@@ -1,0 +1,16 @@
+Here is an example of using the `lang` attribute in HTML:
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Language Attribute Example</title>
+</head>
+<body>
+	<h1>Welcome to our website!</h1>
+	<p>This text is in English.</p>
+	<p lang="es">Este texto está en español.</p>
+	<p lang="fr">Ce texte est en français.</p>
+</body>
+</html>
